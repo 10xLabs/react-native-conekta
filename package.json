@@ -29,5 +29,6 @@
     }
   },
   "author": "zo0r <http://zo0r.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/zo0r/react-native-conekta"
 }
